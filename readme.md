@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/kozlosoft/cpp_concept_showroom_2019.svg?branch=master)](https://travis-ci.org/kozlosoft/cpp_concept_showroom_2019)
 # Cpp Concept Showroom 2019
 
 It's been a while since Bjarne introduced concepts:
