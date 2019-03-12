@@ -24,5 +24,7 @@ Table of contents:
 # How to run (windows/linux/macos)
 ```docker-compose up --build```
 
+or check travis-ci output
+
 ## notes
 At the moment GCC (6+) has -fconcepts flag (unlike CLANG).
