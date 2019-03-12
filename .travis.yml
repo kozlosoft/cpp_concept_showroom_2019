@@ -1,4 +1,6 @@
 services:
   - docker
+before_script: 
+- mkdir build
 script:
 - docker-compose up --build
